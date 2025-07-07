@@ -1,23 +1,22 @@
-# FakeNewsDetector-App
- Fake News Detector
+Fake News Detector
 An AI-powered web app to detect and expose fake news circulating online.
 
- Features
- User login/signup (stored in users.json)
+Features
+User login/signup (stored in users.json)
 
- Analyze any news article for fake content using OpenRouter (ChatGPT)
+Analyze any news article for fake content using OpenRouter (ChatGPT)
 
- View trending fake news from the GNews API
+View trending fake news from the GNews API
 
- Like/dislike posts (1 vote per user)
+Like/dislike posts (1 vote per user)
 
- Add comments on news
+Add comments on news
 
- Profile page shows your activity
+Profile page shows your activity
 
- Search functionality in both feed and profile
+Search functionality in both feed and profile
 
- Tech Stack
+Tech Stack
 Frontend: React.js
 
 Backend: Node.js + Express
